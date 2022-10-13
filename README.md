@@ -26,8 +26,6 @@ This Application has been developed to help the customer in processing their com
 - PRAKASH  T
 - KARTHIKEYAN R
 - MOHAMMED MUNSHID PP
-
-<hr>
  
 
 <hr>
