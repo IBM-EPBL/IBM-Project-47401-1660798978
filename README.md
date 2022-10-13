@@ -28,15 +28,7 @@ This Application has been developed to help the customer in processing their com
 - MOHAMMED MUNSHID PP
 
 <hr>
-
-## 🔗 LINKS
-
- TEAM MEMBERS  FOLDER LINK    
- -------------  ------------- 
- * ARIHARAN T  <button> <a href="https://github.com/IBM-EPBL/IBM-Project-47401-1660798978/tree/main/Assessment/Ariharan(TL)">CLICK HERE!  </a></button>                 
- * PRAKASH T   <button> <a href="https://github.com/IBM-EPBL/IBM-Project-47401-1660798978/tree/main/Assessment/Prakash">CLICK HERE!  </a> </button> 
- * KARATHIKEYAN R    <button><a href="https://github.com/IBM-EPBL/IBM-Project-47401-1660798978/tree/main/Assessment/Karthik">CLICK HERE!  </a> </button> 
- * MOHAMMED MUNSHID PP    <button><a href="https://github.com/IBM-EPBL/IBM-Project-47401-1660798978/tree/main/Assessment/Munshid">CLICK HERE!  </a> </button> 
+ 
 
 <hr>
 
