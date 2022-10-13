@@ -1,7 +1,7 @@
 ![Customer Care](https://user-images.githubusercontent.com/114137266/195376035-a480e894-5a1c-4870-b073-53cb0cbbc720.png)
 <hr>
 
-# 🛃 CUSTOMER CARE REGISTRY
+#  CUSTOMER CARE REGISTRY
 
 <hr>
 
@@ -42,14 +42,14 @@ This Application has been developed to help the customer in processing their com
 
 #  IDEATION PHASE
 
-      Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+      Ideation is the process where you generate ideas and solutions through .
 - [x] Literature Survey
 - [x] Problem Statement
 - [x] Empathy Map
 - [x] Ideation
 
 # PROJECT DESIGN PHASE 
-      In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+      In the design phase, one or more designs are developeing.
 
 # PROJECT DESIGN PHASE 01 
 - [x] Proposed Solution
