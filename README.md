@@ -21,7 +21,7 @@ This Application has been developed to help the customer in processing their com
 
  <hr>
 
-## 🧑🏻 TEAM MEMBERS
+##  TEAM MEMBERS
 - ARIHARAN T
 - PRAKASH  T
 - KARTHIKEYAN R
