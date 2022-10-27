@@ -26,8 +26,13 @@ This Application has been developed to help the customer in processing their com
 - PRAKASH  T
 - KARTHIKEYAN R
 - MOHAMMED MUNSHID PP
- 
 
+ 
+##  ASSIGNMENT FINISHED
+- [x] ASSIGNMENT 1
+- [x] ASSIGNMENT 2
+- [x] ASSIGNMENT 3 
+- [x] ASSIGNMENT 4
 <hr>
 
 #  IDEATION PHASE
