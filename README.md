@@ -60,7 +60,7 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 <div align="center">
- <h5>  MOHAMMED SATHAK AJ COLLEGE ENGINEERING COLLEGE </h5>
+ <h5>  CUSTOMER CARE REGISTRY CLOUD APP DEVELOPEMENT </h5>
 
 <hr>
 
