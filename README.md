@@ -49,6 +49,8 @@ This Application has been developed to help the customer in processing their com
 # PROJECT DESIGN PHASE 02 
 - [x] Solution Requirements
 - [x] Customer Journey
+- [x] Functional Requirements
+- [x] Tecnology Architecture
 
 <hr>
 
