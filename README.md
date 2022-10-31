@@ -32,7 +32,6 @@ This Application has been developed to help the customer in processing their com
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
-- [ ] ASSIGNMENT 4
 <hr>
 
 #  IDEATION PHASE
