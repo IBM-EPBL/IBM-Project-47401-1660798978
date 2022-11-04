@@ -42,6 +42,7 @@ This Application has been developed to help the customer in processing their com
 - [x] Problem Statement
 - [x] Empathy Map
 - [x] Ideation
+<hr>
 
 # PROJECT DESIGN PHASE 
       In the design phase, one or more designs are developeing.
