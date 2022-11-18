@@ -1,0 +1,40 @@
+<html>
+<body>
+          <div class="container ticket-detail">
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col">
+                        <h3>{{ ticket[3] }}</h3>
+                        <h3>{{ ticket[4] }}</h3>
+                    </div>
+                    <div class="col">
+                        <div class="row detail-card bl">
+                            <h3>Complaint Filed by {{ customer[1] }}</h3>
+                        </div>
+                        <div class="row detail-card gr">
+                            <h3>Progress: {{ ticket[5] }}</h3>
+                        </div>
+                        <div class="row detail-card yl">
+                            <h3>Assigned to: {{ agent[1] }}</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" >
+                    <form method="POST">
+                        <select name="agent">
+                
+                            
+                        </select>
+                        <input class="btn btn-danger btn-sm" type="submit" value="Assign"/>
+                    </form>
+                </div>
+             
+                 
+                        <a href="/delete/{{ticket[0]}}/{{user[4]}}"><button class="btn btn-danger" >Close</button></a>
+                    
+                
+            </div>
+        </div>
+        
+ </body>
+</html>
