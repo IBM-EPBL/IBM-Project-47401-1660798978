@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Care Registry</title>
+    <link href="../static/favicon.ico" rel="icon">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <style>
+        body {
+            background-image: url('static/care.jpg');
+            background-size: cover;
+        }
+            
+    </style>
+</head>
+<body>
+    <font color = "white">
+        <h1><center>CUSTOMER CARE REGISTRY</center></h1>
+    </font>
+   
+    <script>
+        window.watsonAssistantChatOptions = {
+    integrationID: "049d902f-8e10-4a7c-9370-aa077d06969a", // The ID of this integration.
+    region: "au-syd", // The region your integration is hosted in.
+    serviceInstanceID: "908ef12d-6f04-46e5-be45-a742af32f8f6", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+      </script>
+</body>
+</html>
